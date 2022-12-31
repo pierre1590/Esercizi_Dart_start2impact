@@ -12,8 +12,8 @@ void printCascade(int startValue) {
 // Check if a word is a palindrome, enter the word as a parameter and then show the message
 void checkPalindrome(String word) {
   word == word.split('').reversed.join('')
-      ? print("La stringa *$word* è palindroma")
-      : print("La stringa *$word* non è palindroma");
+      ? print("La stringa \"$word\" è palindroma")
+      : print("La stringa \"$word\" non è palindroma");
 }
 
 // Calculate the area of the rectangle
