@@ -2,11 +2,12 @@
 <details open="open">
     <summary>Table of contents</summary>
     <ol>
-        <li><a href="">About project</a></li>
-        <li><a href="">Installation</a></li>
-        <li><a href="">Languages</a></li>
-        <li><a href="">Contact</a></li>
-  
+        <li><a href="#about-project">About project</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#languages">Languages</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ol>
+</details>
 
 ## About project
 The project consists in the development of 8 exercises using the Dart programming language.
