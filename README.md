@@ -6,8 +6,7 @@
         <li><a href="">Installation</a></li>
         <li><a href="">Languages</a></li>
         <li><a href="">Contact</a></li>
-    </ol>
-</details>
+  
 
 ## About project
 The project consists in the development of 8 exercises using the Dart programming language.
